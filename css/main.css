@@ -1,0 +1,145 @@
+
+.titulo{
+	font-size: 20px;
+	font-family: OpenSans-Regular;
+
+}
+
+.subtitulo {
+	font-size: 15px;
+	font-family: OpenSans-Regular;
+}
+
+.texto {
+	font-size: 13px;
+	font-family: OpenSans-Light;	
+}
+
+.text2 {
+	font-size: 10px;
+	font-family: OpenSans-Light;	
+}
+
+.pd-parrafo {
+	padding: 2% 18%;
+}
+
+
+header {
+	padding: 15px 25px;
+}
+
+header a {
+	margin: 0px 20px;
+	font-family: OpenSans-Regular;
+}
+
+header p {
+	padding-top: 25px;
+}
+
+header img{
+	height: 70px;
+	width: auto;
+	padding-left: 50px;
+}
+
+.semilla {
+	background-image: url("../img/semilla.jpg");
+	height: 310px;
+
+}
+
+.presentacion p {
+	padding: 5% 20%;
+}
+
+.flex {
+	display: flex;
+	overflow: hidden;
+}
+
+.servicios img {
+	width: 30%;
+}
+
+.foto-met {
+	background-image: url("../img/metodo.jpg");
+	background-position: left top;
+	
+}
+ .text-met {
+ 	background-image: url("../img/fondo.jpg");
+ }
+
+.perfil{
+	border-radius: 100%;
+	width: 35%;
+}
+
+.ico-redes img {
+	width: 5%;
+	margin: 0% 1%;
+}
+
+
+.pdl-5{
+	padding-left: 5%;
+}
+
+.blog {
+	background-image: url("../img/fondo2.jpg");
+	/*background-position: 100% 100%;
+	*/
+	height: 450px;
+}
+
+.blog .col-1 {
+	margin-top: 10%;
+	padding-right: auto;
+	padding-left: auto;
+}
+
+.blog .titulo:first-child {
+	padding-left: 8%;
+}
+
+.blog .col-4 {
+	padding-right: 4%;
+	padding-left: 4%;
+}
+
+.redes .col-3{
+	border: 1px solid white;
+	border-right-color: #4D4D4D;
+
+}
+
+.redes .col-3 p {
+	font-family: OpenSans-Light;
+	padding: 8%;
+}
+
+.redes .col-3:last-child{
+	border-right-color: white;
+}
+
+.redes img {
+	width: 15%;
+	padding-top: 50%;
+	padding-bottom: 8%;
+	margin-left: 70%;
+}
+
+.email img{
+	width: 15%;
+	margin-bottom: 3.5%;
+}
+
+footer{
+    padding-top: 4%;
+    padding-bottom: 9%;
+    padding-right: 5%;
+    padding-left: 5%;
+    
+}
